@@ -1,2 +1,5 @@
 # get-ticker-from-yahoo
-Get ticker history from yahoo python library
+
+Get S&P500 history with yahoo python library
+
+https://python-yahoofinance.readthedocs.io/en/latest/api.html
